@@ -8,3 +8,4 @@ Atalhos e comando python
 6. cd .. (sair da pasta;arquivo pelo terminal)
 7. echo > "exemplo.py" (criar arquivo pelo terminal)
 8. Ctrl + ; (Comenta a linha selecionada)
+9. Ctrl + L (seleciona textos iguais)
